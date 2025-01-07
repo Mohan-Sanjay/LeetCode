@@ -4,6 +4,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0012-integer-to-roman) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Mohan-Sanjay/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Tree
 |  |
@@ -44,4 +45,9 @@
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0008-string-to-integer-atoi) |
+| [0012-integer-to-roman](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0012-integer-to-roman) |
+## Math
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0012-integer-to-roman) |
 <!---LeetCode Topics End-->
