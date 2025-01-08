@@ -13,6 +13,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0079-word-search) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Mohan-Sanjay/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -31,11 +32,13 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0059-spiral-matrix-ii) |
+| [0079-word-search](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0079-word-search) |
 ## Matrix
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0059-spiral-matrix-ii) |
+| [0079-word-search](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0079-word-search) |
 ## Simulation
 |  |
 | ------- |
@@ -46,6 +49,7 @@
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0012-integer-to-roman) |
+| [0079-word-search](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0093-restore-ip-addresses) |
 ## Math
 |  |
@@ -54,5 +58,6 @@
 ## Backtracking
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0093-restore-ip-addresses) |
 <!---LeetCode Topics End-->
