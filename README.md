@@ -52,6 +52,7 @@
 | [0079-word-search](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0093-restore-ip-addresses) |
 | [0214-shortest-palindrome](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0214-shortest-palindrome) |
+| [0763-special-binary-string](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0763-special-binary-string) |
 ## Math
 |  |
 | ------- |
@@ -73,4 +74,8 @@
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0214-shortest-palindrome) |
+## Recursion
+|  |
+| ------- |
+| [0763-special-binary-string](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0763-special-binary-string) |
 <!---LeetCode Topics End-->
