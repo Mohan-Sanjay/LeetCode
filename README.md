@@ -6,6 +6,7 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0012-integer-to-roman) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Mohan-Sanjay/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [2190-count-common-words-with-one-occurrence](https://github.com/Mohan-Sanjay/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
 ## Tree
 |  |
 | ------- |
@@ -33,6 +34,7 @@
 | [0054-spiral-matrix](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0079-word-search](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0079-word-search) |
+| [2190-count-common-words-with-one-occurrence](https://github.com/Mohan-Sanjay/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
 ## Matrix
 |  |
 | ------- |
@@ -53,6 +55,7 @@
 | [0093-restore-ip-addresses](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0093-restore-ip-addresses) |
 | [0214-shortest-palindrome](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0763-special-binary-string](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0763-special-binary-string) |
+| [2190-count-common-words-with-one-occurrence](https://github.com/Mohan-Sanjay/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
 ## Math
 |  |
 | ------- |
@@ -78,4 +81,8 @@
 |  |
 | ------- |
 | [0763-special-binary-string](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0763-special-binary-string) |
+## Counting
+|  |
+| ------- |
+| [2190-count-common-words-with-one-occurrence](https://github.com/Mohan-Sanjay/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
 <!---LeetCode Topics End-->
