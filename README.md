@@ -59,6 +59,7 @@
 | [0205-isomorphic-strings](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0214-shortest-palindrome](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0387-first-unique-character-in-a-string](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0392-is-subsequence) |
 | [0763-special-binary-string](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0763-special-binary-string) |
 | [0841-shortest-distance-to-a-character](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0841-shortest-distance-to-a-character) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Mohan-Sanjay/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
@@ -99,5 +100,10 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0392-is-subsequence) |
 | [0841-shortest-distance-to-a-character](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0841-shortest-distance-to-a-character) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
