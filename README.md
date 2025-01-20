@@ -63,6 +63,7 @@
 | [0392-is-subsequence](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0392-is-subsequence) |
 | [0763-special-binary-string](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0763-special-binary-string) |
 | [0841-shortest-distance-to-a-character](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0841-shortest-distance-to-a-character) |
+| [1078-remove-outermost-parentheses](https://github.com/Mohan-Sanjay/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Mohan-Sanjay/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
 ## Math
 |  |
@@ -111,4 +112,5 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0020-valid-parentheses) |
+| [1078-remove-outermost-parentheses](https://github.com/Mohan-Sanjay/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
