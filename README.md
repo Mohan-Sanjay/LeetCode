@@ -69,6 +69,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0012-integer-to-roman) |
+| [1236-n-th-tribonacci-number](https://github.com/Mohan-Sanjay/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 ## Backtracking
 |  |
 | ------- |
@@ -108,9 +109,14 @@
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0392-is-subsequence) |
+| [1236-n-th-tribonacci-number](https://github.com/Mohan-Sanjay/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0020-valid-parentheses) |
 | [1078-remove-outermost-parentheses](https://github.com/Mohan-Sanjay/LeetCode/tree/master/1078-remove-outermost-parentheses) |
+## Memoization
+|  |
+| ------- |
+| [1236-n-th-tribonacci-number](https://github.com/Mohan-Sanjay/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
