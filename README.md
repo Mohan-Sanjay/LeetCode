@@ -35,6 +35,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0059-spiral-matrix-ii) |
+| [0064-minimum-path-sum](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0079-word-search) |
 | [0841-shortest-distance-to-a-character](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0841-shortest-distance-to-a-character) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Mohan-Sanjay/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
@@ -43,6 +44,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0059-spiral-matrix-ii) |
+| [0064-minimum-path-sum](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0079-word-search) |
 ## Simulation
 |  |
@@ -108,6 +110,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0392-is-subsequence](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0392-is-subsequence) |
 | [1236-n-th-tribonacci-number](https://github.com/Mohan-Sanjay/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 ## Stack
