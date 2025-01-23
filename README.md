@@ -38,6 +38,7 @@
 | [0064-minimum-path-sum](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0079-word-search) |
 | [0120-triangle](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0120-triangle) |
+| [0376-wiggle-subsequence](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0376-wiggle-subsequence) |
 | [0841-shortest-distance-to-a-character](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0841-shortest-distance-to-a-character) |
 | [1105-uncrossed-lines](https://github.com/Mohan-Sanjay/LeetCode/tree/master/1105-uncrossed-lines) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Mohan-Sanjay/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
@@ -114,6 +115,7 @@
 | ------- |
 | [0064-minimum-path-sum](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0120-triangle) |
+| [0376-wiggle-subsequence](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0376-wiggle-subsequence) |
 | [0392-is-subsequence](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0392-is-subsequence) |
 | [1105-uncrossed-lines](https://github.com/Mohan-Sanjay/LeetCode/tree/master/1105-uncrossed-lines) |
 | [1236-n-th-tribonacci-number](https://github.com/Mohan-Sanjay/LeetCode/tree/master/1236-n-th-tribonacci-number) |
@@ -126,4 +128,8 @@
 |  |
 | ------- |
 | [1236-n-th-tribonacci-number](https://github.com/Mohan-Sanjay/LeetCode/tree/master/1236-n-th-tribonacci-number) |
+## Greedy
+|  |
+| ------- |
+| [0376-wiggle-subsequence](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0376-wiggle-subsequence) |
 <!---LeetCode Topics End-->
