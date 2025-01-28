@@ -69,6 +69,7 @@
 | [0763-special-binary-string](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0763-special-binary-string) |
 | [0841-shortest-distance-to-a-character](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0841-shortest-distance-to-a-character) |
 | [1078-remove-outermost-parentheses](https://github.com/Mohan-Sanjay/LeetCode/tree/master/1078-remove-outermost-parentheses) |
+| [1250-longest-common-subsequence](https://github.com/Mohan-Sanjay/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Mohan-Sanjay/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
 ## Math
 |  |
@@ -119,6 +120,7 @@
 | [0392-is-subsequence](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0392-is-subsequence) |
 | [1105-uncrossed-lines](https://github.com/Mohan-Sanjay/LeetCode/tree/master/1105-uncrossed-lines) |
 | [1236-n-th-tribonacci-number](https://github.com/Mohan-Sanjay/LeetCode/tree/master/1236-n-th-tribonacci-number) |
+| [1250-longest-common-subsequence](https://github.com/Mohan-Sanjay/LeetCode/tree/master/1250-longest-common-subsequence) |
 ## Stack
 |  |
 | ------- |
