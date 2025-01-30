@@ -33,6 +33,7 @@
 ## Array
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0064-minimum-path-sum) |
@@ -79,6 +80,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0093-restore-ip-addresses) |
 ## Rolling Hash
