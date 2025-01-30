@@ -36,6 +36,7 @@
 | [0051-n-queens](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0059-spiral-matrix-ii) |
+| [0063-unique-paths-ii](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0079-word-search) |
 | [0120-triangle](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0120-triangle) |
@@ -48,6 +49,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0059-spiral-matrix-ii) |
+| [0063-unique-paths-ii](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0079-word-search) |
 ## Simulation
@@ -116,6 +118,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0120-triangle) |
 | [0376-wiggle-subsequence](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0376-wiggle-subsequence) |
