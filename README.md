@@ -42,6 +42,7 @@
 | [0120-triangle](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0120-triangle) |
 | [0376-wiggle-subsequence](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0376-wiggle-subsequence) |
 | [0841-shortest-distance-to-a-character](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0841-shortest-distance-to-a-character) |
+| [0967-minimum-falling-path-sum](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1105-uncrossed-lines](https://github.com/Mohan-Sanjay/LeetCode/tree/master/1105-uncrossed-lines) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Mohan-Sanjay/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
 ## Matrix
@@ -52,6 +53,7 @@
 | [0063-unique-paths-ii](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0079-word-search) |
+| [0967-minimum-falling-path-sum](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 ## Simulation
 |  |
 | ------- |
@@ -123,6 +125,7 @@
 | [0120-triangle](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0120-triangle) |
 | [0376-wiggle-subsequence](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0376-wiggle-subsequence) |
 | [0392-is-subsequence](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0392-is-subsequence) |
+| [0967-minimum-falling-path-sum](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1105-uncrossed-lines](https://github.com/Mohan-Sanjay/LeetCode/tree/master/1105-uncrossed-lines) |
 | [1236-n-th-tribonacci-number](https://github.com/Mohan-Sanjay/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/Mohan-Sanjay/LeetCode/tree/master/1250-longest-common-subsequence) |
