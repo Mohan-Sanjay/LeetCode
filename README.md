@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0012-integer-to-roman) |
+| [0037-sudoku-solver](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0037-sudoku-solver) |
 | [0205-isomorphic-strings](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0387-first-unique-character-in-a-string](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Mohan-Sanjay/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -33,6 +34,7 @@
 ## Array
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0059-spiral-matrix-ii) |
@@ -48,6 +50,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0063-unique-paths-ii) |
@@ -84,6 +87,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0093-restore-ip-addresses) |
