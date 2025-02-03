@@ -18,10 +18,12 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0079-word-search) |
+| [0547-number-of-provinces](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0547-number-of-provinces) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Mohan-Sanjay/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0547-number-of-provinces) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Mohan-Sanjay/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Sorting
 |  |
@@ -146,4 +148,12 @@
 |  |
 | ------- |
 | [0376-wiggle-subsequence](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0376-wiggle-subsequence) |
+## Union Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0547-number-of-provinces) |
+## Graph
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
