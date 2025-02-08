@@ -22,6 +22,7 @@
 | [0813-all-paths-from-source-to-target](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0871-keys-and-rooms) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Mohan-Sanjay/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1073-number-of-enclaves](https://github.com/Mohan-Sanjay/LeetCode/tree/master/1073-number-of-enclaves) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -29,6 +30,7 @@
 | [0813-all-paths-from-source-to-target](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0871-keys-and-rooms) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Mohan-Sanjay/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1073-number-of-enclaves](https://github.com/Mohan-Sanjay/LeetCode/tree/master/1073-number-of-enclaves) |
 ## Sorting
 |  |
 | ------- |
@@ -51,6 +53,7 @@
 | [0376-wiggle-subsequence](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0376-wiggle-subsequence) |
 | [0841-shortest-distance-to-a-character](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0841-shortest-distance-to-a-character) |
 | [0967-minimum-falling-path-sum](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0967-minimum-falling-path-sum) |
+| [1073-number-of-enclaves](https://github.com/Mohan-Sanjay/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1105-uncrossed-lines](https://github.com/Mohan-Sanjay/LeetCode/tree/master/1105-uncrossed-lines) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Mohan-Sanjay/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
 ## Matrix
@@ -63,6 +66,7 @@
 | [0064-minimum-path-sum](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0079-word-search) |
 | [0967-minimum-falling-path-sum](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0967-minimum-falling-path-sum) |
+| [1073-number-of-enclaves](https://github.com/Mohan-Sanjay/LeetCode/tree/master/1073-number-of-enclaves) |
 ## Simulation
 |  |
 | ------- |
@@ -157,6 +161,7 @@
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0547-number-of-provinces) |
+| [1073-number-of-enclaves](https://github.com/Mohan-Sanjay/LeetCode/tree/master/1073-number-of-enclaves) |
 ## Graph
 |  |
 | ------- |
