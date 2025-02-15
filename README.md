@@ -51,6 +51,7 @@
 | [0064-minimum-path-sum](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0079-word-search) |
 | [0120-triangle](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0120-triangle) |
+| [0135-candy](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0135-candy) |
 | [0376-wiggle-subsequence](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0376-wiggle-subsequence) |
 | [0841-shortest-distance-to-a-character](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0841-shortest-distance-to-a-character) |
 | [0967-minimum-falling-path-sum](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0967-minimum-falling-path-sum) |
@@ -157,6 +158,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0135-candy) |
 | [0376-wiggle-subsequence](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0376-wiggle-subsequence) |
 ## Union Find
 |  |
