@@ -14,6 +14,7 @@
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0933-increasing-order-search-tree](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0933-increasing-order-search-tree) |
 | [1005-univalued-binary-tree](https://github.com/Mohan-Sanjay/LeetCode/tree/master/1005-univalued-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Mohan-Sanjay/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -22,6 +23,7 @@
 | ------- |
 | [0079-word-search](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0079-word-search) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0547-number-of-provinces](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0547-number-of-provinces) |
 | [0813-all-paths-from-source-to-target](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0871-keys-and-rooms) |
@@ -46,6 +48,7 @@
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0933-increasing-order-search-tree](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0933-increasing-order-search-tree) |
 | [1005-univalued-binary-tree](https://github.com/Mohan-Sanjay/LeetCode/tree/master/1005-univalued-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Mohan-Sanjay/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -94,6 +97,7 @@
 | [0093-restore-ip-addresses](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0093-restore-ip-addresses) |
 | [0205-isomorphic-strings](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0214-shortest-palindrome](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0214-shortest-palindrome) |
+| [0257-binary-tree-paths](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0387-first-unique-character-in-a-string](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0392-is-subsequence) |
 | [0763-special-binary-string](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0763-special-binary-string) |
@@ -113,6 +117,7 @@
 | [0051-n-queens](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0093-restore-ip-addresses) |
+| [0257-binary-tree-paths](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0813-all-paths-from-source-to-target](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 ## Rolling Hash
 |  |
