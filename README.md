@@ -14,6 +14,7 @@
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0933-increasing-order-search-tree](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0933-increasing-order-search-tree) |
 | [1005-univalued-binary-tree](https://github.com/Mohan-Sanjay/LeetCode/tree/master/1005-univalued-binary-tree) |
@@ -23,6 +24,7 @@
 | ------- |
 | [0079-word-search](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0079-word-search) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0547-number-of-provinces](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0547-number-of-provinces) |
 | [0813-all-paths-from-source-to-target](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
@@ -34,6 +36,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0547-number-of-provinces) |
 | [0813-all-paths-from-source-to-target](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0871-keys-and-rooms) |
@@ -48,6 +51,7 @@
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0933-increasing-order-search-tree](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0933-increasing-order-search-tree) |
 | [1005-univalued-binary-tree](https://github.com/Mohan-Sanjay/LeetCode/tree/master/1005-univalued-binary-tree) |
