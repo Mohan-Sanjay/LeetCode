@@ -13,6 +13,7 @@
 ## Tree
 |  |
 | ------- |
+| [0933-increasing-order-search-tree](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0933-increasing-order-search-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Mohan-Sanjay/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
@@ -21,6 +22,7 @@
 | [0547-number-of-provinces](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0547-number-of-provinces) |
 | [0813-all-paths-from-source-to-target](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0871-keys-and-rooms) |
+| [0933-increasing-order-search-tree](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0933-increasing-order-search-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Mohan-Sanjay/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/Mohan-Sanjay/LeetCode/tree/master/1073-number-of-enclaves) |
 ## Breadth-First Search
@@ -38,6 +40,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0933-increasing-order-search-tree](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0933-increasing-order-search-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Mohan-Sanjay/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Array
 |  |
@@ -150,6 +153,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0020-valid-parentheses) |
+| [0933-increasing-order-search-tree](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0933-increasing-order-search-tree) |
 | [1078-remove-outermost-parentheses](https://github.com/Mohan-Sanjay/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 ## Memoization
 |  |
@@ -179,4 +183,8 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0933-increasing-order-search-tree](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0933-increasing-order-search-tree) |
 <!---LeetCode Topics End-->
