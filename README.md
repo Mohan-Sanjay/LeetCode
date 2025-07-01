@@ -30,6 +30,7 @@
 | [0226-invert-binary-tree](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0547-number-of-provinces](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0547-number-of-provinces) |
+| [0744-network-delay-time](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0744-network-delay-time) |
 | [0813-all-paths-from-source-to-target](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0871-keys-and-rooms) |
 | [0933-increasing-order-search-tree](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0933-increasing-order-search-tree) |
@@ -42,6 +43,7 @@
 | [0207-course-schedule](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0547-number-of-provinces) |
+| [0744-network-delay-time](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0744-network-delay-time) |
 | [0813-all-paths-from-source-to-target](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0871-keys-and-rooms) |
 | [1005-univalued-binary-tree](https://github.com/Mohan-Sanjay/LeetCode/tree/master/1005-univalued-binary-tree) |
@@ -196,6 +198,7 @@
 | ------- |
 | [0207-course-schedule](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0547-number-of-provinces) |
+| [0744-network-delay-time](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0744-network-delay-time) |
 | [0813-all-paths-from-source-to-target](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0871-keys-and-rooms) |
 ## Binary Search
@@ -214,4 +217,12 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0207-course-schedule) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0744-network-delay-time) |
+## Shortest Path
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/Mohan-Sanjay/LeetCode/tree/master/0744-network-delay-time) |
 <!---LeetCode Topics End-->
